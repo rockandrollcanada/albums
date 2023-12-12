@@ -67,17 +67,17 @@ a:link {
 
 
 a:link {
-  color: rgb(208, 196, 196);
+  color: rgb(240, 11, 11);
 }
 
 /* visited link */
 a:visited {
-  color: rgb(231, 238, 231);
+  color: rgb(7, 240, 7);
 }
 
 /* mouse over link */
 a:hover {
-  color: rgb(208, 209, 111);
+  color: rgb(13, 14, 1);
 }
 
 /* selected link */
