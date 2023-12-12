@@ -53,6 +53,7 @@ section {
   background-color: red;
   color: white;
   text-align: center;
+  height: 80px
 }
 
 /* unvisited link */
