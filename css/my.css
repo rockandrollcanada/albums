@@ -52,6 +52,25 @@ section {
   width: 100%;
   background-color: red;
   color: white;
-  
   text-align: center;
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(208, 196, 196);
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(254, 4, 129);
+}
+
+/* selected link */
+a:active {
+  color: rgb(14, 14, 14);
 }
