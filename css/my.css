@@ -53,10 +53,14 @@ section {
   background-color: red;
   color: white;
   text-align: center;
-  height: 180px
+  height: 100px
 }
 
 /* unvisited link */
+a:link {
+  text-decoration: none;
+}
+
 a:link {
   color: rgb(208, 196, 196);
 }
