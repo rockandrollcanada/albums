@@ -84,3 +84,11 @@ a:hover {
 a:active {
   color: rgb(14, 14, 14);
 }
+
+/* images */
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
